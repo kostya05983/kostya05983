@@ -1,5 +1,5 @@
 ### About Me
-Lead developer in Kontur. I love to write code in kotlin and other languages.
+Lead developer in Kontur. I love to solve difficult problems in any languages or technologies.
 <div id="badges">
   <a href="https://www.linkedin.com/in/konstantin-volivach-6858aa224/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,3 +14,5 @@ Here you can find my [CV](https://github.com/kostya05983/CV)
 
 ### My stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kostya05983&theme=dark&background=000000)](https://git.io/streak-stats)
+
+Below you can find my repositories with my favourite projects.
