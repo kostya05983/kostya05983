@@ -12,6 +12,10 @@ Senior Software Developer in Avito. I love to solve difficult problems in any la
 ### CV
 Here you can find my [CV](https://github.com/kostya05983/CV)
 
+### Blog
+
+Here is my [Blog](https://kostya05983.github.io/Blog/) available in russian.
+
 ### My stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kostya05983&theme=dark&background=000000)](https://git.io/streak-stats)
 
